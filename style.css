@@ -89,7 +89,7 @@ h6{
 .next-plan{
     margin-top: 5rem;
     width: 99%;
-    height: 50vh;
+    height: 40vh;
 }
 .plan{
     text-align: center;
@@ -110,4 +110,77 @@ h6{
 .process-plan img{
     width: 4.2rem;
     height: auto;
+}
+.mindset{
+    margin: 1rem 20rem;
+    width: auto;
+    height: 30vh;
+    background-image: url("images/gradient1.png"),url("images/watch.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+.positive-mindset{
+    color: white;
+    padding: 1.5rem 0 0 1.5rem;
+    font-size: 1.5rem;
+}
+.mindset-btn{
+    margin: 1.5rem 0 0 1.5rem;
+    padding: 1.5rem;
+    border: none;
+    border-radius: 10px;
+    font-size: 1.2rem;
+}
+footer{
+    height: 40vh;
+    width: auto;
+    color:white;
+    background-color: black;
+}
+.footer-divide{
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    margin-top: 3rem;
+    gap: 5rem;
+    padding: 1.5rem;
+}
+.future-plan {
+    width: 40%;
+
+}
+.future-plan h2{
+    padding-top: .8rem;
+    padding-bottom: 1rem;
+
+}
+.future-plan p{
+    
+    line-height: 1.3rem;
+    color: rgba(226, 214, 214, 0.831);
+}
+
+.social-images{
+    margin-top: 1rem;
+    padding: .2rem;
+    height: 1.5rem;
+}
+.subscribe {
+    width: 30%;
+}
+.subscribe h3{
+    padding: 1rem 0;
+}
+.subscribe input{
+    padding: 1rem;
+    border: 1px solid white;
+    border-radius: .3rem;
+    color: white;
+    background-color: black;
+}
+.btn{
+    margin-top: .5rem;
+    background-color: blue !important;
 }
