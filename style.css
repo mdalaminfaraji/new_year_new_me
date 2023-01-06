@@ -4,7 +4,7 @@
 }
 .header{
     width: 99%;
-    height: 70vh;
+    height: 80vh;
     background-image: url("images/banner/banner3.png");
     
     background-repeat: no-repeat;
@@ -14,11 +14,12 @@
    display: flex;
    justify-content: end;
    align-items: center;
-  
+  margin-bottom: 6rem;
 }
 .header-content{
-   
+  padding-bottom: 10rem;
 padding-right: 10rem;
+padding-top: 10rem;
     
 }
 .header-title{
