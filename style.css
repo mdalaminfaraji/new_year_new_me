@@ -86,3 +86,28 @@ h6{
     width: 10px;
     height: 10px;
 }
+.next-plan{
+    margin-top: 5rem;
+    width: 99%;
+    height: 50vh;
+}
+.plan{
+    text-align: center;
+    padding: 20px;
+    font-size: 2rem;
+}
+.learning-plan{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    gap: 2.5rem;
+    padding: 10px;
+    text-align: center;
+}
+.process-plan p{
+    color: gray;
+}
+.process-plan img{
+    width: 4.2rem;
+    height: auto;
+}
