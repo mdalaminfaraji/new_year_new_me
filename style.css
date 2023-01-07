@@ -1,6 +1,7 @@
 *{
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 .header{
     width: 99%;
@@ -111,6 +112,58 @@ h6{
     width: 4.2rem;
     height: auto;
 }
+.progress{
+    width: 99%;
+    height: 80vh;
+    background-color: rgba(250, 235, 215, 0.234);
+    padding-left: 10rem;
+    padding-right:10rem;
+}
+.progress p{
+    font-size: 1.8rem;
+    padding: 1rem 0;
+}
+.progress-heading{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 900;
+    padding-top: 2rem;
+}
+.container {
+  width: 100%;
+  background-color: #ddd;
+  border-radius: 10px;
+  border: 1px solid rgba(218, 165, 32, 0.37);
+}
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+  
+}
+.web-develoopment{
+    width: 30%;
+    background-color: rgba(0, 0, 255, 0.623);
+    border-radius: 10px;
+}
+.javascript{
+    width: 40%;
+    background-color: blueviolet;
+    border-radius: 10px;
+}
+.smoking-habit{
+    width: 95%;
+    background-color: rgb(234, 125, 16);
+    border-radius: 10px;
+
+}
+.ecommerce{
+    width: 10%;
+    background-color: rgba(237, 9, 9, 0.783);
+    border-radius: 10px;
+}
+
 .mindset{
     margin: 1rem 20rem;
     width: auto;
